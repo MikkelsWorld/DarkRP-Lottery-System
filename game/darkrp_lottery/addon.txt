@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"            "DarkRP Lottery System"
+	"version"         "1.0"
+	"up_date"         "00/00/00"
+	"author_name"     "Sys32"
+	"author_email"    "public@tastesen.net"
+	"author_url"      "http://tastesen.net/"
+}
